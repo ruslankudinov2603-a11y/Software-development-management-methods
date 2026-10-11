@@ -1,2 +1,5 @@
-# Software-development-management-methods
-# Software-development-management-methods
+Домашнее Задание №1
+
+Elevator Pitch 
+
+Lean Canvas 
