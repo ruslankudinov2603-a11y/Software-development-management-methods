@@ -53,3 +53,4 @@
 
 ## Lean Canvas
 
+<img width="1020" height="654" alt="Снимок экрана — 2026-10-11 в 23 42 01" src="https://github.com/user-attachments/assets/18af30a2-b0f9-490b-8622-19eb0eba6c81" />
